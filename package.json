@@ -1,0 +1,24 @@
+{
+  "name": "shuffleasync",
+  "version": "0.0.0",
+  "description": "Shuffles an array of elements asynchronously using the Fisher–Yates shuffle. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshnaidu/shuffleAsync.git"
+  },
+  "keywords": [
+    "shuffle",
+    "async",
+    "array"
+  ],
+  "author": "ganeshnaidu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganeshnaidu/shuffleAsync/issues"
+  },
+  "homepage": "https://github.com/ganeshnaidu/shuffleAsync#readme"
+}
