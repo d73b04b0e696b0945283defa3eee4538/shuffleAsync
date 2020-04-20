@@ -44,5 +44,5 @@ node example
 git clone https://github.com/ganeshnaidu/shuffleAsync.git
 cd shuffleAsync
 npm install
-node test 
+npm test 
 ```
