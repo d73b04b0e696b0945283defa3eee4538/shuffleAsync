@@ -1,7 +1,7 @@
 {
   "name": "shuffleasync",
   "version": "0.0.0",
-  "description": "Shuffles an array of elements asynchronously using the Fisher–Yates shuffle. ",
+  "description": "Shuffles an array of elements asynchronously using The modern version of the Fisher–Yates shuffle. ",
   "main": "index.js",
   "scripts": {
     "test": "mocha test --color"
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/ganeshnaidu/shuffleAsync/issues"
   },
-  "homepage": "https://github.com/ganeshnaidu/shuffleAsync#readme"
+  "homepage": "https://github.com/ganeshnaidu/shuffleAsync#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^7.1.1"
+  },
+  "dependencies": {}
 }
