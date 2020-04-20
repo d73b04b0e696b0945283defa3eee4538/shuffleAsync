@@ -1,6 +1,6 @@
 {
   "name": "shuffleasync",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Shuffles an array of elements asynchronously using The modern version of the Fisher–Yates shuffle. ",
   "main": "index.js",
   "scripts": {
